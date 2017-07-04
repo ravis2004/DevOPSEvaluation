@@ -32,12 +32,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Bank">
-      <HintPath>..\..\Bank\Bank\bin\Debug\Bank.dll</HintPath>
-    </Reference>
-    <Reference Include="BankTests">
-      <HintPath>..\..\Bank\BankTests\bin\Debug\BankTests.dll</HintPath>
-    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
